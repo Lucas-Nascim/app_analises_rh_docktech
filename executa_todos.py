@@ -25,26 +25,26 @@ def main():
     
     # Lista de tuplas contendo o identificador do processo e a funcao correspondente
     processos = [
-        ("Chamadas Gerais", executar_e_salvar_chamadas_gerais),
-        ("Chamadas Dlocal", executar_e_salvar_dlocal),
-        ("Chamadas Cassems", executar_e_salvar_cassems),
-        ("Tabulações N2 Falcon", executar_e_salvar_tabulacoes_n2_falcon),
-        ("Tabulações N2 Jira Prevenção", executar_e_salvar_tabulacoes_n2_jira_prevencao),
-        ("Tabulações N2 Jira", executar_e_salvar_tabulacoes_n2_jira),
-        ("Tabulações N3 Emissores", executar_e_salvar_tabulacoes_n3_emissores),
-        ("Tabulações N3 Visa", executar_e_salvar_tabulacoes_n3_visa),
-        ("Tabulações N3 Jira", executar_e_salvar_tabulacoes_n3_jira),
-        ("Tabulações N3 Master", executar_e_salvar_tabulacoes_n3_master),
-        ("Tabulações OnboardingBPP", executar_e_salvar_tabulacoes_OnboardingBPP),
-        ("Tabulações OnboardingJira", executar_e_salvar_tabulacoes_OnboardingJira),
-        ("Tabulações OnboardingPF", executar_e_salvar_tabulacoes_OnboardingPF),
-        ("Tabulações OnboardingPJ_Manual", executar_e_salvar_tabulacoes_OnboardingPJ_Manual),
-        ("Tabulações OnboardingPJ", executar_e_salvar_tabulacoes_OnboardingPJ),
-        ("Tabulações OnboardingPLD", executar_e_salvar_tabulacoes_OnboardingPLD),
-        ("Monitorias Qualidade", executar_e_salvar_monitoria),
+        # ("Chamadas Gerais", executar_e_salvar_chamadas_gerais),
+        # ("Chamadas Dlocal", executar_e_salvar_dlocal),
+        # ("Chamadas Cassems", executar_e_salvar_cassems),
+        # ("Tabulações N2 Falcon", executar_e_salvar_tabulacoes_n2_falcon),
+        # ("Tabulações N2 Jira Prevenção", executar_e_salvar_tabulacoes_n2_jira_prevencao),
+        # ("Tabulações N2 Jira", executar_e_salvar_tabulacoes_n2_jira),
+        # ("Tabulações N3 Emissores", executar_e_salvar_tabulacoes_n3_emissores),
+        # ("Tabulações N3 Visa", executar_e_salvar_tabulacoes_n3_visa),
+        # ("Tabulações N3 Jira", executar_e_salvar_tabulacoes_n3_jira),
+        # ("Tabulações N3 Master", executar_e_salvar_tabulacoes_n3_master),
+        # ("Tabulações OnboardingBPP", executar_e_salvar_tabulacoes_OnboardingBPP),
+        # ("Tabulações OnboardingJira", executar_e_salvar_tabulacoes_OnboardingJira),
+        # ("Tabulações OnboardingPF", executar_e_salvar_tabulacoes_OnboardingPF),
+        # ("Tabulações OnboardingPJ_Manual", executar_e_salvar_tabulacoes_OnboardingPJ_Manual),
+        # ("Tabulações OnboardingPJ", executar_e_salvar_tabulacoes_OnboardingPJ),
+        # ("Tabulações OnboardingPLD", executar_e_salvar_tabulacoes_OnboardingPLD),
+        # ("Monitorias Qualidade", executar_e_salvar_monitoria),
         ("Quadro Operacional", executar_e_salvar_quadro_operacional),
-        ("Quadro Directive", executar_e_salvar_quadro_directive),
-        ("Tempo logado Nexus", executar_e_salvar_tempo_logado_nexus)
+        ("Quadro Directive", executar_e_salvar_quadro_directive)
+        # ("Tempo logado Nexus", executar_e_salvar_tempo_logado_nexus)
         # ("Ponto Senior", executar_e_salvar_ponto_senior)
     ]
     
